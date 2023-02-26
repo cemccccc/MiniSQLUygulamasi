@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLUygulamasi", "SQLUygulamasi\SQLUygulamasi.csproj", "{56FC67E9-94A1-48B6-A00D-B4B6C3376227}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56FC67E9-94A1-48B6-A00D-B4B6C3376227}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56FC67E9-94A1-48B6-A00D-B4B6C3376227}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56FC67E9-94A1-48B6-A00D-B4B6C3376227}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56FC67E9-94A1-48B6-A00D-B4B6C3376227}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FBDF2BE-CAE5-4996-95EC-F7E1F1DC35FD}
+	EndGlobalSection
+EndGlobal
